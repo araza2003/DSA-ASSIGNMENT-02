@@ -1,4 +1,4 @@
-# DSA-ASSIGNMENT-02
+# DSA-ASSIGNMENT-02  BY: AHMED RAZA SEAT # B21110006009
 In the assignment we were assigned 5 coding problems. Here's a description to how I solved those.
 **Question # 01: Retieving The Trump**
 The task was to read the input from a .txt file, so for that i used the following functions: 
